@@ -25,4 +25,3 @@ desktopUlEl.innerHTML += `<li><a href="#" class="hover:text-neutralVeryDarkDesat
     }
 }
 renderNav()
-console.log(renderNav)
