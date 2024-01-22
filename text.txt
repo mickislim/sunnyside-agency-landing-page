@@ -1,0 +1,99 @@
+  About
+  Services
+  Projects
+  Contact
+
+  We are creatives
+
+  Transform your brand
+
+  We are a full-service creative agency specializing in helping brands grow fast. 
+  Engage your clients through compelling visuals that do most of the marketing for you.
+
+  Learn more
+
+  Stand out to the right audience
+
+  Using a collaborative formula of designers, researchers, photographers, videographers, and copywriters, we’ll build and extend your brand in digital places. 
+
+  Learn more
+
+  Graphic design
+  Great design makes you memorable. We deliver artwork that underscores your brand message and captures potential clients’ attention.
+
+ <h1> Photography <h1/>
+ <p> Increase your credibility by getting the most stunning, high-quality photos that improve your business image.</p>
+
+  Client testimonials
+
+  We put our trust in Sunnyside and they delivered, making sure our needs were met and deadlines were always hit.
+  Emily R.
+  Marketing Director
+
+  Sunnyside’s enthusiasm coupled with their keen interest in our brand’s success made it a satisfying and enjoyable experience.
+  Thomas S.
+  Chief Operating Officer
+
+  Incredible end result! Our sales increased over 400% when we worked with Sunnyside. Highly recommended!
+  Jennie F.
+  Business Owner
+
+  About
+  Services
+  Projects
+  Contact
+
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">Your Name Here</a>.
+  </div>
+
+
+
+
+  <main>
+      <div class="sm:hidden lg:flex">
+        <img src="./images/desktop/image-header.jpg"/>
+      </div>
+
+
+
+
+<header class="" style="background-image:url('./images/mobile/image-header.jpg') ;">
+  <nav  class="flex justify-between mx-5 pt-10 border lg:hidden">
+    <div class="logo"><img src="./images/logo.svg"/></div>
+    <div class="hamburger">
+<img src="./images/icon-hamburger.svg" />    </div>
+  </nav>
+
+  <div id="nav-modal" class=" justify-center items-center box-border  fixed bg-white w-80 h-80 translate-x-7 z-50 top-20 py-10 lg:hidden">
+    <ul class="flex flex-col text-center space-y-7 text-1.5xl font-bold mt-5">
+      <li><a href="#">About</a></li>
+      <li><a href="#">Services</a></li>
+      <li><a href="#">Projects</a></li>
+    </ul>
+
+    <div id="menubtn-container" class=" flex place-content-center font-fraunces  mt-7">
+      <button class="flex px-8 py-2 rounded-full bg-primaryYellow text-1.5xl font-bold">CONTACT</button>
+    </div>
+    
+  </div>
+
+
+   <div class="relative" ><img src="./images/mobile/image-header.jpg"  class="border border-red-500 border-10" />
+
+
+    
+  <article class="flex flex-col items-center justify-center translate-x-7 absolute top-20 pt-9 z-10  border" >
+    <div class="flex item-center  w-80 text-6xl text-center "> <h1  >WE ARE CREATIVES</h1></div>
+ <div class="flex pt-10  items-center justify-center"><img src="./images/icon-arrow-down.svg" alt="" class="p-4"></div>
+     
+   </article>
+
+    <div> 
+      
+  
+</div>
+
+
+</header>
